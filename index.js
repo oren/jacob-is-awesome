@@ -7,6 +7,5 @@ var App = React.createClass({
   }
 });
 
-
 var elem = document.querySelector('body');
-React.render(App, elem);
+React.render(React.createElement(App), elem);
