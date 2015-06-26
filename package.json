@@ -18,5 +18,8 @@
   "homepage": "https://github.com/oren/jacob-is-awesome",
   "dependencies": {
     "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.4"
   }
 }
