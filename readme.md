@@ -8,4 +8,4 @@ This project is developed after JS.LA events.
 * Hack on random shit
 
 
-If there is a specific technology you would like to hack with us, let me know!
+If there is a specific technology you would like to learn, let me know!
